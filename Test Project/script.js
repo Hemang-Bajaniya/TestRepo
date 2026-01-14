@@ -43,3 +43,5 @@ count_btn.addEventListener("click", (e) => {
     sessionStorage.setItem("sessionCounts", sessionCounts);
     session_count.textContent = `total session count ${sessionCounts}`;
 });
+
+console.log("Learning git...");
